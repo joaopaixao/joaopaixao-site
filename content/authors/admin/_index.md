@@ -24,6 +24,8 @@ interests:
 - Computational Geometry
 - Computational Topology
 - Discrete Morse Theory
+- Linear Algebra and Numerical Methods Education
+- Graph Theory
 #- Strings Diagram
 
 education:
@@ -49,9 +51,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hifYYM4AAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/joaopaixao
@@ -70,5 +72,3 @@ user_groups: []
 #- Researchers
 #- Visitors
 ---
-
-Graduated in Mathematics from Virginia Tech (2007), and Received a Masters and Ph.D. in Applied Mathematics from Pontifícia Universidade Católica do Rio de Janeiro (2010 e 2014) in Applied Mathematics. Works in computational geometry and topology, on the following subjects: discrete Morse theory, topology of vector and tensor fields and combinatorial algorithms. He is currently an Assistant Professor at the Universidade Federal do Rio de Janeiro.

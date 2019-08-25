@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Students
 
 # View.
 #   1 = List

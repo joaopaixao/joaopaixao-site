@@ -58,9 +58,10 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jarpao@gmail.com"
+#email = "jarpao@gmail.com"
+email = "jpaixao@dcc.ufrj.br"
 phone = "+55 21 3938-9521"
-address = """Departamento de Ciência da Computação, Sala E-2013<br>
+address = """Departamento de Ciência da Computação, Sala E-2012<br>
 Centro de Ciências Matemáticas e da Natureza<br>
 Avenida Athos da Silveira Ramos, 274, Cidade Universitária<br>
 Ilha do Fundão, Rio de Janeiro"""
@@ -134,6 +135,14 @@ sharing = true
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
+  
+[student]
+  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "January 2006"
+
+  # Citation style ("apa" or "mla")
+  citation_style = "apa"
 
 # Configuration of project pages.
 [projects]
@@ -145,6 +154,7 @@ sharing = true
   post_view = 2
   publication_view = 2
   talk_view = 2
+  student_view = 2
 
 # Comments.
 [comments]
