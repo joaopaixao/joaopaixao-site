@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Graphics, Patterns and Images (SIBGRAPI), 2010 23rd SIBGRAPI Conference on*"
+url_pdf: "http://thomas.lewiner.org/publication_page.php?pubkey=tuningmh_sibgrapi"
 ---
 

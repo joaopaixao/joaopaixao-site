@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2010 23rd SIBGRAPI Conference on Graphics, Patterns and Images*"
+url_pdf: "http://thomas.lewiner.org/publication_page.php?pubkey=topovf_sibgrapi"
 ---
 
