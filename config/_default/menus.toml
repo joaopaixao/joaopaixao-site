@@ -18,6 +18,11 @@
   url = "/student"
   weight = 40
 
+[[main]]
+  name = "Notes"
+  url = "/notes"
+  weight = 40
+
 #[[main]]
 #  name = "Courses"
 #  url = "/course"
