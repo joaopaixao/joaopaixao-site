@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Computer Graphics and Image Processing (SIBGRAPI), 2009 XXII Brazilian Symposium on*"
+url_pdf: "http://thomas.lewiner.org/publication_page.php?pubkey=rwvectors_sibgrapi"
 ---
 
