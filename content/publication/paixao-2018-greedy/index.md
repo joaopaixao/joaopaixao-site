@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:1801.10118*"
+url_pdf: "https://arxiv.org/pdf/1801.10118.pdf"
+
 ---
 
