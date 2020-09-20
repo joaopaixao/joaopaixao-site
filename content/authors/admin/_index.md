@@ -26,7 +26,8 @@ interests:
 - Discrete Morse Theory
 - Linear Algebra and Numerical Methods Education
 - Graph Theory
-#- Strings Diagram
+- Strings Diagrams
+- Graphical Linear Algebra
 
 education:
   courses:
