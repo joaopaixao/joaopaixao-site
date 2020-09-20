@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*The Visual Computer*"
+url_pdf: "https://link.springer.com/article/10.1007/s00371-011-0617-4"
 ---
 
