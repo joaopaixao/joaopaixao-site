@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:1712.08136*"
+url_pdf: "https://arxiv.org/pdf/1712.08136.pdf"
 ---
 
