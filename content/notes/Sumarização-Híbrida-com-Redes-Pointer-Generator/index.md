@@ -1,10 +1,9 @@
 ---
-title: "Sumarização Híbrida com Redes Pointer-Generator"
-date: 2019-01-01
-publishDate: 2019-08-25T18:03:31.053727Z
-authors: ["Guilherme Freire"]
+title: "Título"
+date: 2020-09-20
+publishDate: 2020-09-20T12:30:31.053727Z
+authors: ["Lucas Rufino",  "João Paixão"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: "*Undergraduate student.* UFRJ"
 ---
